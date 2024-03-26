@@ -1,6 +1,6 @@
 ### Hi, I'm Arthur 👋
 
-- 🔭 I’ve been coding in JavaScript and Python primarily for over 6 years.
+- 🔭 I’ve been coding mainly in Python primarily for over 6 years.
 - :books: I'm a PhD Student in Neuroscience (Computational Models) at UNICAMP.
 - 🏗️ I’m a Signal Processing & Machine Learning Research Fellow at ITV-DS.
 - 🌱 I’m currently trying web development with HTMX, Alpine.js and FastAPI.
